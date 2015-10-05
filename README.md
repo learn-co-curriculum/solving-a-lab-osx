@@ -68,7 +68,7 @@ You should know what files you need to create or edit.
 
 You should know what those files and code should define, provide, and do.
 
-You should constantly test your code with every significant change or attem.
+You should constantly test your code with every significant change.
 
 You should read error messages and glean insight into the solution with every new failure.
 

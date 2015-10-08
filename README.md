@@ -2,6 +2,8 @@
 
 ## Overview
 
+**Note: This is an informational README. You just have to read and conceptualize these workflows. Don't try to execute these commands yet. You will have a chance to practice the entire workflow using `learn` very shortly.**
+
 Once you've opened your lab locally, whether using the `git` CLI workflow of Forking and Cloning, or whether you used the `learn` CLI workflow using `learn open`, you're ready to solve the lab.
 
 All of the labs on Learn are written with an RSpec test suite that you can use to confirm that you've fulfilled the requirements of the lab. RSpec is a testing library that ruby developers use everyday, so again, as you work on Learn, you're also learning the same tools and workflows that developers use.
@@ -90,4 +92,4 @@ Eventually your local tests will pass and Learn will indicate your success.
 
 On the left is a passing test run in the terminal, on the right is what the right column in Learn for a passing local test (which we currently call a "Local Build").
 
-When your local tests are passing, you're ready to submit the lab.
+When your local tests are passing, you'll be ready to submit the lab.

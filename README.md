@@ -70,7 +70,7 @@ You should know what files you need to create or edit.
 
 You should know what those files and code should define, provide, and do.
 
-You should constantly test your code with every significant change.
+You should constantly save and test your code with every significant change.
 
 You should read error messages and glean insight into the solution with every new failure.
 
@@ -85,7 +85,7 @@ Programming is never about getting it all right at once. Programming is like sol
 
 ### 5. Pass your local tests with `learn`
 
-Follow this workflow, running tests, reading errors, writing code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're just stuck or tired and just need some help, Ask a Question and the Learn community is here for you.
+Follow this workflow, running tests, reading errors, writing code, saving code, running tests, reading errors, consulting the README, googling for more context on a topic, writing more code, saving the code, running the tests again, reading errors, and repeat. You'll get it, you'll surprise yourself and find a confidence within you. And if you're just stuck or tired and just need some help, Ask a Question and the Learn community is here for you.
 
 Eventually your local tests will pass and Learn will indicate your success.
 ![Pass](https://dl.dropboxusercontent.com/s/36nudmkxwmvrow9/2015-10-01%20at%2011.38%20PM.png)

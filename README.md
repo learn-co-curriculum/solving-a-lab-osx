@@ -93,3 +93,5 @@ Eventually your local tests will pass and Learn will indicate your success.
 On the left is a passing test run in the terminal, on the right is what the right column in Learn for a passing local test (which we currently call a "Local Build").
 
 When your local tests are passing, you'll be ready to submit the lab.
+
+<a href='https://learn.co/lessons/solving-a-lab-osx' data-visibility='hidden'>View this lesson on Learn.co</a>

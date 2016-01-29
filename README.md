@@ -94,4 +94,4 @@ On the left is a passing test run in the terminal, on the right is what the righ
 
 When your local tests are passing, you'll be ready to submit the lab.
 
-<a href='https://learn.co/lessons/solving-a-lab-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/solving-a-lab-osx' title='Solving a Lab - OSX'>Solving a Lab - OSX</a> on Learn.co and start learning to code for free.</p>
